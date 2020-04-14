@@ -1,2 +1,4 @@
-# zz2374-columbia.edu
-RPC_FashionMNIST
+#RPC_FashionMNIST
+
+For RPC model parallelism training:
+python main.py
